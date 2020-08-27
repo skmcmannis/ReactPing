@@ -1,3 +1,6 @@
+//Author: Shawn McMannis
+//Last Mod Date: 7/27/2020
+
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './App.css';
